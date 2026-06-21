@@ -2,17 +2,18 @@
 
 Dimensional Control Engineer currently completing a Level 5 Data Engineering Apprenticeship.
 
-## Current Focus
+## Interested in:
+- Data Engineering
 - Python
 - SQL
-- Data Engineering
-- Manufacturing & Dimensional Analytics
+- Manufacturing Analytics
+- Process Improvement
 
-## Featured Projects
-- Manufacturing ETL Pipeline
-- Statistical Process Control Analysis
-- Manufacturing KPI Dashboard
-- SQL Portfolio
+## Currently learning:
+- Python
+- Data Pipelines
+- Cloud Technologies
+- Git & GitHub
 
 ## Career Goal
 Transition into Data Engineering while leveraging manufacturing dimensional domain expertise.
