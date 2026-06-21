@@ -1,16 +1,18 @@
-### Hi there I'm Susanne 👋
+# Hi, I'm Susanne
 
-Dimensional Control Engineer currently completing a Level 5 Data Engineering apprenticeship.
+Dimensional Control Engineer currently completing a Level 5 Data Engineering Apprenticeship.
 
-Interested in:
-- Data Engineering
+## Current Focus
 - Python
 - SQL
+- Data Engineering
 - Manufacturing & Dimensional Analytics
-- Process Improvement & Automation
 
-Currently learning:
-- Python
-- Data Pipelines
-- Cloud Technologies
-- Git & GitHub
+## Featured Projects
+- Manufacturing ETL Pipeline
+- Statistical Process Control Analysis
+- Manufacturing KPI Dashboard
+- SQL Portfolio
+
+## Career Goal
+Transition into Data Engineering while leveraging manufacturing dimensional domain expertise.
