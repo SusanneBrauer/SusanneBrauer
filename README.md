@@ -2,8 +2,6 @@
 
 ### Dimensional Systems Integration Engineer transitioning into Data Engineering | Level 5 Data Engineering Apprentice | Never stop learning
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=susannebrauer" alt="susannebrauer" /></a> </p>
-
 - 🔭 I'm currently working on **Dimensional Forge: Dimensional Database based on dimensional engineering data life cycle
 Games Tracker: Achievement/Trophy pipeline**
 
